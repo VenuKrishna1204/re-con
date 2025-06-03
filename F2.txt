@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 TIGER
 LION
 ELEPHANT
 ZEBRA
+=======
+Harsha
+MOnkey
+>>>>>>> 7fc64a2 (c)
